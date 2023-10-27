@@ -1,3 +1,11 @@
+/* Assignment Information:
+ * Name: Steve Sommer
+ * Date: 10/26/23
+ * Description: A program that demonstrates the Banker algorithm.
+ */
+
+package Hw5;
+
 import java.util.Scanner;
 
 public class BankersAlgorithm {
